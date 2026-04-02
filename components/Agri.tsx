@@ -18,7 +18,7 @@ export default function Agri() {
     { title: "Other Crops", subtitle: "Diverse products", image: "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80", description: "Cabbage, carrots, and tomatoes contribute to agricultural diversity." },
   ];
   const learnMoreText = agri.learnMoreText ?? "Learn More About Our Agriculture";
-  const learnMoreHref = agri.learnMoreHref ?? (config.economy ? "/economy" : "/agriculture");
+  const learnMoreHref = agri.learnMoreHref ?? "/agriculture";
 
   const cardVariants = {
     hidden: { opacity: 0, y: 20 },

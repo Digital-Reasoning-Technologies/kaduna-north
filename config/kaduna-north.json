@@ -11,7 +11,7 @@
         { "name": "About Kaduna North", "href": "/about" },
         { "name": "Government", "href": "/government" },
         { "name": "Projects", "href": "/projects" },
-        { "name": "Economy", "href": "/economy" },
+        { "name": "Agriculture", "href": "/agriculture" },
         { "name": "News", "href": "/news" },
         { "name": "Gallery", "href": "/gallery" }
       ],
@@ -53,7 +53,7 @@
       ]
     },
     "economy": {
-      "sectionTitle": "Economy – Driving Urban Development",
+      "sectionTitle": "Agriculture – Driving Urban Development",
       "cards": [
         {
           "title": "Central Business District",
@@ -69,13 +69,13 @@
         },
         {
           "title": "Markets & Services",
-          "subtitle": "Urban Economy",
+          "subtitle": "Urban Agriculture",
           "image": "/livestock.jpeg",
           "description": "Markets and service-based businesses contribute significantly to economic activity and employment."
         }
       ],
-      "learnMoreText": "Learn More About the Economy",
-      "learnMoreHref": "/economy"
+      "learnMoreText": "Learn More About Agriculture",
+      "learnMoreHref": "/agriculture"
     },
     "news": {
       "sectionTitle": "Latest News",
@@ -95,7 +95,7 @@
         { "label": "About Kaduna North", "href": "/about" },
         { "label": "Government", "href": "/government" },
         { "label": "Projects", "href": "/projects" },
-        { "label": "Economy", "href": "/economy" },
+        { "label": "Agriculture", "href": "/agriculture" },
         { "label": "News", "href": "/news" }
       ],
       "socialLinks": [
@@ -106,7 +106,7 @@
     "aboutPage": {
       "hero": {
         "title": "About Kaduna North",
-        "subtitle": "Learn about the governance, economy, and communities of Kaduna North Local Government Area.",
+        "subtitle": "Learn about the governance, agriculture, and communities of Kaduna North Local Government Area.",
         "image": "/bg1.png"
       },
       "tabs": {
@@ -139,6 +139,81 @@
           "Public Administration: Government ministries and agencies.",
           "Urban Services: Transportation, hospitality, and services."
         ]
+      }
+    },
+    "governmentPage": {
+      "hero": {
+        "title": "Government of Kaduna North",
+        "subtitle": "Learn about the administrative structure, elected representatives, and traditional institution in Kaduna North Local Government Area.",
+        "image": "/bg1.png"
+      },
+      "structure": {
+        "intro": "Kaduna North Local Government operates through a structured administrative system that combines democratic governance with community representation.",
+        "executive": [
+          "Executive Chairman: Heads the local government administration and policy implementation.",
+          "Vice Chairman: Supports executive administration and oversees delegated responsibilities."
+        ],
+        "legislative": [
+          "Legislative Council: Comprised of elected councillors representing electoral wards.",
+          "Council deliberates and passes by-laws to support local governance."
+        ],
+        "departments": [
+          "Works and Infrastructure",
+          "Health Services",
+          "Agriculture and Rural Development",
+          "Education and Social Development",
+          "Finance and Administration"
+        ]
+      },
+      "leadership": [
+        {
+          "name": "Executive Chairman, Kaduna North Local Government",
+          "title": "Chairman",
+          "image": "/chairman.png"
+        },
+        {
+          "name": "Vice Chairman, Kaduna North Local Government",
+          "title": "Vice Chairman",
+          "image": "/logo.png"
+        }
+      ],
+      "electoralWards": [
+        {
+          "ward": "Kaduna North Central Ward",
+          "councillor": "Hon. Representative 01",
+          "image": "/logo.png",
+          "position": "Leader of the Legislative Council"
+        },
+        {
+          "ward": "Kabala Costain Ward",
+          "councillor": "Hon. Representative 02",
+          "image": "/logo.png",
+          "position": "Councillor"
+        },
+        {
+          "ward": "Shaba Ward",
+          "councillor": "Hon. Representative 03",
+          "image": "/logo.png",
+          "position": "Councillor"
+        },
+        {
+          "ward": "Badarawa Ward",
+          "councillor": "Hon. Representative 04",
+          "image": "/logo.png",
+          "position": "Councillor"
+        }
+      ],
+      "traditionalInstitution": {
+        "sectionTitle": "Traditional Institution",
+        "emirateHeading": "Emirate Council",
+        "districtsHeading": "Districts",
+        "roleHeading": "Role of Traditional Leaders",
+        "intro": "Kudan falls under the Zazzau Emirate (based in Zaria). Traditional leadership plays an integral role in preserving Kudan's cultural identity and complementing modern governance.",
+        "chiefdoms": [
+          "Kudan District: Headed by Alhaji Halliru Mahmud Tukuran Zazzau, who collaborates closely with the local government to foster community cohesion and preserve cultural continuity.",
+          "Hunkuyi District: Serving as the administrative and cultural center, it is headed by Alhaji Aminu Muhammad Ashiru."
+        ],
+        "role": "A total of 27 village heads operate under these districts, ensuring that traditional practices and community customs are preserved. These traditional structures help maintain a balance between age-old customs and contemporary administrative practices, ensuring that Kudan's heritage remains vibrant and respected."
       }
     },
     "contactPage": {
