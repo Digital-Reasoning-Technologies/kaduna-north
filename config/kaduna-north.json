@@ -44,7 +44,7 @@
     },
     "chairman": {
       "sectionTitle": "Message from the Chairman",
-      "name": "Executive Chairman, Kaduna North Local Government",
+      "name": "Hon. Muhammad Gambo",
       "image": "/chairman.png",
       "messageParagraphs": [
         "Welcome to the official website of Kaduna North Local Government Area. Our administration is committed to effective governance, infrastructure development, and improved public services.",
@@ -58,13 +58,13 @@
         {
           "title": "Central Business District",
           "subtitle": "Commercial Hub",
-          "image": "/maize.jpeg",
+          "image": "/maize2.png",
           "description": "Kaduna North hosts major business districts including banks, offices, and retail centers."
         },
         {
           "title": "Government Institutions",
           "subtitle": "Administrative Center",
-          "image": "/Millet.jpeg",
+          "image": "/ginger.png",
           "description": "The LGA contains key federal and state government offices and institutions."
         },
         {
@@ -98,9 +98,10 @@
         { "label": "Agriculture", "href": "/agriculture" },
         { "label": "News", "href": "/news" }
       ],
+      "copyright": "Kaduna North Local Government Area",
       "socialLinks": [
-        { "platform": "facebook", "href": "#" },
-        { "platform": "twitter", "href": "#" }
+        { "platform": "facebook", "href": "https://www.facebook.com/profile.php?id=100048681623701" },
+        { "platform": "twitter", "href": "https://x.com/kadunanorthlg?s=11" }
       ]
     },
     "aboutPage": {
@@ -112,8 +113,8 @@
       "tabs": {
         "general": {
           "leadership": [
-            "Executive Chairman: Kaduna North Local Government",
-            "Vice Chairman: Deputy Chairman"
+            "Executive Chairman: Hon. Muhammad Gambo",
+            "Vice Chairman: Hon. Nazir Sunusi Abubakar"
           ],
           "location": [
             "Location: Kaduna State, Northern Nigeria",
@@ -130,6 +131,24 @@
           ]
         }
       },
+      "history": {
+  "paragraphs": [
+    "Kaduna North Local Government Area is one of the oldest LGAs in Kaduna State, established as an administrative district to enhance governance. It is often referred to as the pioneer local government, integral to the state's political, social, and economic framework. Its headquarters are located in the town of Doka, which also serves as the capital of Kaduna State.",
+    "Today, our administrative headquarters is located at Magajin Gari, Doka, the center of local governance and community life. Kaduna North is led by an elected Chairman and Vice Chairman and comprises 12 electoral wards, each represented by an elected councilor.",
+    "Over the decades, Kaduna North has maintained its deep-rooted administrative and commercial traditions while steadily embracing modern development and progress as a central hub for government institutions, businesses, and historical landmarks within the Kaduna metropolis."
+  ]
+},
+"culture": {
+  "paragraphs": [
+    "Kaduna North LGA is a cosmopolitan area known for its rich cultural traditions that celebrate a diverse community. The region is known for its cultural tolerance and coexistence, with vibrant cultural events such as Durbar festivals celebrated during significant Islamic holidays like Eid. Residents also take pride in traditional arts, crafts, music, and cuisine that reflect the area's diversity.",
+    "These cultural expressions not only bind the community together but also highlight our strong connection to the land and the broader northern Nigerian heritage."
+  ],
+  "tribes": ["Hausa", "Fulani", "Gbagyi", "Adara"],
+  "languages": [
+    "Primary: Hausa",
+    "Secondary: English (official language), Fulfulde, Gbagyi, and Adara"
+  ]
+},
       "geographyEconomy": {
         "title": "Geography & Economy",
         "location": "Kaduna North lies at the heart of Kaduna metropolis and serves as a major administrative and commercial hub.",
@@ -166,15 +185,25 @@
         ]
       },
       "leadership": [
+         {
+        "name": "Senator Uba Sani",
+        "title": "Governor",
+        "image": "/uba.jpeg"
+      },
+       {
+        "name": "Hon. Sadiq Mamman Lagos",
+        "title": "Commisioner for Local Government Affairs",
+        "image": "/commissioner.PNG"
+      },
         {
-          "name": "Executive Chairman, Kaduna North Local Government",
+          "name": "Hon. Muhammad Gambo",
           "title": "Chairman",
           "image": "/chairman.png"
         },
         {
-          "name": "Vice Chairman, Kaduna North Local Government",
+          "name": "Hon. Nazir Sunusi Abubakar",
           "title": "Vice Chairman",
-          "image": "/logo.png"
+          "image": "/vice.png"
         }
       ],
       "electoralWards": [
@@ -203,18 +232,18 @@
           "position": "Councillor"
         }
       ],
-      "traditionalInstitution": {
-        "sectionTitle": "Traditional Institution",
-        "emirateHeading": "Emirate Council",
-        "districtsHeading": "Districts",
-        "roleHeading": "Role of Traditional Leaders",
-        "intro": "Kudan falls under the Zazzau Emirate (based in Zaria). Traditional leadership plays an integral role in preserving Kudan's cultural identity and complementing modern governance.",
-        "chiefdoms": [
-          "Kudan District: Headed by Alhaji Halliru Mahmud Tukuran Zazzau, who collaborates closely with the local government to foster community cohesion and preserve cultural continuity.",
-          "Hunkuyi District: Serving as the administrative and cultural center, it is headed by Alhaji Aminu Muhammad Ashiru."
-        ],
-        "role": "A total of 27 village heads operate under these districts, ensuring that traditional practices and community customs are preserved. These traditional structures help maintain a balance between age-old customs and contemporary administrative practices, ensuring that Kudan's heritage remains vibrant and respected."
-      }
+    "traditionalInstitution": {
+  "sectionTitle": "Traditional Institution",
+  "emirateHeading": "Emirate Council",
+  "districtsHeading": "Districts",
+  "roleHeading": "Role of Traditional Leaders",
+  "intro": "Kaduna North falls under the Zazzau Emirate (also known as the Zaria Emirate), a first-class traditional state with its headquarters in the city of Zaria.[reference:0][reference:1] The Emirate is one of the largest in Kaduna State, comprising 11 Local Government Areas.[reference:2]",
+  "chiefdoms": [
+    "Zazzau Emirate: Headed by His Royal Highness, Alhaji (Amb.) Ahmed Nuhu Bamalli, CFR, the 19th Emir of Zazzau. He collaborates closely with the Kaduna State Government and local governments to foster community cohesion, peace, and cultural continuity.[reference:3]",
+    "In 2023, the Kaduna State Government approved the appointment of eight new district heads within the Zazzau Emirate as part of a restructuring effort. This includes areas like Barnawa, Gubuchi, Sabon Birni, and Hunkuyi, which are within the broader emirate.[reference:4]"
+  ],
+  "role": "A network of traditional chiefs, district heads, and village heads operate under the Zazzau Emirate. These traditional structures help maintain a balance between age-old customs and contemporary administrative practices, ensuring that the region's rich heritage remains vibrant and respected. They also play a vital role in local conflict prevention and mediation.[reference:5]"
+}
     },
     "contactPage": {
       "hero": {
@@ -224,7 +253,7 @@
       },
       "contactDetails": [
         { "icon": "mapPin", "text": "Kaduna North Local Government Secretariat, Kaduna, Kaduna State, Nigeria" },
-        { "icon": "phone", "text": "+234" },
+        { "icon": "phone", "text": "+234 803 279 0668" },
         { "icon": "mail", "text": "info@kadunanorthlga.gov.ng" }
       ],
       "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d68397.4015672442!2d7.355965424337443!3d10.545357050296547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11b2caa66bd2c6c1%3A0xd64855d498f0dab2!2sKaduna%20North%2C%20Kaduna!5e1!3m2!1sen!2sng!4v1773746758482!5m2!1sen!2sng",
